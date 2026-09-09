@@ -1,0 +1,11 @@
+{
+  "name": "live-coding-quality-engineer",
+  "version": "1.0.0",
+  "description": "Live Coding Challenge para Engenharia de Qualidade",
+  "scripts": {
+    "api": "node server.js"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  }
+}
