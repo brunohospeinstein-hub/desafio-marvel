@@ -1,0 +1,86 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Spider-Man",
+      "description": "Friendly neighborhood hero",
+      "comics": 3250,
+      "series": 892,
+      "events": 121,
+      "publisher": "Marvel"
+    },
+    {
+      "id": 2,
+      "name": "Iron Man",
+      "description": "Genius billionaire philanthropist",
+      "comics": 2875,
+      "series": 734,
+      "events": 98,
+      "publisher": "Marvel"
+    },
+    {
+      "id": 3,
+      "name": "Hulk",
+      "description": "Green rage monster",
+      "comics": 2231,
+      "series": 601,
+      "events": 87,
+      "publisher": "Marvel"
+    },
+    {
+      "id": 4,
+      "name": "Captain America",
+      "description": "The First Avenger",
+      "comics": 1984,
+      "series": 552,
+      "events": 76,
+      "publisher": "Marvel"
+    },
+    {
+      "id": 5,
+      "name": "Thor",
+      "description": "God of Thunder",
+      "comics": 3112,
+      "series": 843,
+      "events": 101,
+      "publisher": "Marvel"
+    },
+    {
+      "id": 6,
+      "name": "Black Widow",
+      "description": "Master spy and Avenger",
+      "comics": 963,
+      "series": 245,
+      "events": 43,
+      "publisher": "Marvel"
+    },
+    {
+      "id": 7,
+      "name": "Wolverine",
+      "description": "Mutant with regenerative powers",
+      "comics": 2780,
+      "series": 711,
+      "events": 89,
+      "publisher": "Marvel"
+    },
+    {
+      "id": 8,
+      "name": "Deadpool",
+      "description": "Merc with a mouth",
+      "comics": 1420,
+      "series": 401,
+      "events": 35,
+      "publisher": "Marvel"
+    },
+
+    {
+      "id": 9,
+      "name": "",
+      "description": null,
+      "comics": -1,
+      "series": 0,
+      "events": 0,
+      "publisher": "Marvel"
+    }
+  ]
+}
