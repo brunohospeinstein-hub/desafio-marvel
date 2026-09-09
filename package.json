@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "Live Coding Challenge para Engenharia de Qualidade",
   "scripts": {
-    "api": "json-server --watch db.json --port 3000"
+    "api": "node server.js"
   },
   "devDependencies": {
-    "json-server": "^1.0.0"
+    "json-server": "^0.17.4"
   }
 }
-``
