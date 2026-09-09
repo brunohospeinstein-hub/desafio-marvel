@@ -1,0 +1,12 @@
+{
+  "name": "live-coding-quality-engineer",
+  "version": "1.0.0",
+  "description": "Live Coding Challenge para Engenharia de Qualidade",
+  "scripts": {
+    "api": "json-server --watch db.json --port 3000"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0"
+  }
+}
+``
